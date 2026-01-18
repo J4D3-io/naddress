@@ -55,8 +55,3 @@ If something in the library is not behaving intuitively, it is a bug, and should
 * Fork the project.
 * Make your feature addition or bug fix.
 * Send us a pull request. Bonus points for topic branches!
-
-
-## Copyright
-
-Copyright (c) 2025 Atlanta Journal Constitution. Released under the [MIT License](./LICENSE).
